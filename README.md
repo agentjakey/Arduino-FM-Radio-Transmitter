@@ -6,7 +6,6 @@
 A fully functional, digitally controlled FM radio transmitter built around the SI4713 FM transmitter IC and an Arduino Uno. The system scans the FM band for the quietest available channel, allows real-time frequency tuning via dual potentiometers, and broadcasts live audio from either a microphone or a laptop, switchable with a hardware flip-flop circuit button.
 
 ![alt text](circuit_diagram.png)
-![alt text](transmitter_circuit.png)
 
 ---
 
